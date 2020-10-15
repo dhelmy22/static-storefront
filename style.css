@@ -1,0 +1,40 @@
+body{
+    background-color: honeydew;
+}
+
+header{
+    width: 100vw;
+    height: 6rem;
+    background-color: grey;
+    margin-bottom: .5rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    text-align: center;
+    padding: .5rem;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+.main-card{
+width: 80%;
+margin: auto;
+
+}
+
+footer{
+    width: 100vw;
+    height: 3rem;
+    background-color: grey;
+    margin-top: .5rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    text-align: center;
+}
+#form{
+    text-align: center;
+    
+    
+}
+#please{
+    text-align: center;
+}
